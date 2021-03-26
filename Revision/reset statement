@@ -1,0 +1,5 @@
+reset statement
+
+ chmod +x ubuntu-reset.sh   //first use only
+
+ ./ubuntu-reset.sh
